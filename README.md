@@ -3,6 +3,9 @@
 ## 📒 Descrição
 Esta pesquisa tem como objetivo saber algumas funcionalidades muito boas do Microsoft Azure.
 
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para tomar como base a criação da pesquisa.
+
 ## 🚀 Resultados da Pesquisa
 A **computação em nuvem** é a entrega de serviços de computação como armazenamento, processamento e rede pela internet ("nuvem"), em vez de depender de hardware físico local. Isso permite que as empresas e usuários individuais acessem recursos sob demanda, pagando apenas pelo que usam.
 
