@@ -42,3 +42,30 @@ O **Microsoft Azure** é uma plataforma de computação em nuvem fornecida pela 
 
 ## 💭 Reflexão
 Azure é amplamente utilizado por empresas de todos os tamanhos para diferentes fins, como hospedagem de sites, análise de grandes volumes de dados, inteligência artificial e machine learning, e implementação de soluções de DevOps.
+
+## 🧐 Links úteis:
+
+**Página oficial do Microsoft Azure**  
+   [https://azure.microsoft.com](https://azure.microsoft.com)  
+
+**Documentação do Azure**  
+   [https://docs.microsoft.com/azure](https://docs.microsoft.com/azure)  
+
+**Azure Machine Learning**  
+   [https://azure.microsoft.com/en-us/services/machine-learning/](https://azure.microsoft.com/en-us/services/machine-learning/)  
+
+**Azure SQL Database**  
+   [https://azure.microsoft.com/en-us/services/sql-database/](https://azure.microsoft.com/en-us/services/sql-database/)  
+   
+
+**Azure Functions (Serverless Computing)**  
+   [https://azure.microsoft.com/en-us/services/functions/](https://azure.microsoft.com/en-us/services/functions/)  
+
+**Azure Active Directory (AD)**  
+   [https://azure.microsoft.com/en-us/services/active-directory/](https://azure.microsoft.com/en-us/services/active-directory/)  
+
+**Azure Security Center**  
+   [https://azure.microsoft.com/en-us/services/security-center/](https://azure.microsoft.com/en-us/services/security-center/)  
+
+**Azure DevOps**  
+   [https://azure.microsoft.com/en-us/services/devops/](https://azure.microsoft.com/en-us/services/devops/)  
